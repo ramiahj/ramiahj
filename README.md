@@ -5,6 +5,8 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ramiahj/osticket-prereqs)
 
+<h2>Certifications:</h2>
+
  <h2>Cybersecurity Project(s):</h2>
  - In progress, coming soon!
 
