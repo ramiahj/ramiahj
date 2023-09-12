@@ -8,7 +8,7 @@
 <h2>Certifications:</h2>
 
  <h2>Cybersecurity Project(s):</h2>
- - In progress, coming soon!
+ - [Managing File Permissions in Linux](https://github.com/ramiahj/FIle-Permissions-in-Linux/tree/main)
 
 <h2>Connect with me:</h2>
 
