@@ -2,6 +2,9 @@
 
 <h2>Information Technology Project(s):</h2>
 
+- <b>Active Directory</b>
+  - [Configuring Active Directory with Azure Virtual Machines](https://github.com/ramiahj/activedirectory)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ramiahj/osticket-prereqs)
 
