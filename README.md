@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ramiah, an <a href="https://linkedin.com/in/ramiah-jackson/">IT Enthusiast </a>☺</h1>
+<h1>Hi, I'm Ramiah, an <a href="https://linkedin.com/in/ramiah-jackson/">IT Professional </a>☺</h1>
 
 <h2>Information Technology Project(s):</h2>
 
