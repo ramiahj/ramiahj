@@ -7,6 +7,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ramiahj/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/ramiahj/post-install-config/tree/main)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ramiahj/post-install-config/tree/main)
 
  <h2>Cybersecurity Project(s):</h2>
 
