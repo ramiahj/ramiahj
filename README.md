@@ -2,13 +2,14 @@
 
 <h2>Information Technology Project(s):</h2>
 
-- <b>Active Directory</b>
+- <b>Microsoft Azure</b>
   - [Configuring Active Directory with Azure Virtual Machines](https://github.com/ramiahj/activedirectory)
+  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/ramiahj/network-security-groups/tree/main)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ramiahj/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ramiahj/post-install-config/tree/main)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ramiahj/post-install-config/tree/main)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ramiahj/ticket-lifecycle)
 
  <h2>Cybersecurity Project(s):</h2>
 
